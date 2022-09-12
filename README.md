@@ -7,7 +7,7 @@ I'm a recent college graduate looking to get into web development. During my sec
 
 ## :heart: My interests include...
 + Video games and esports :video_game:
-  + Talk to me about VALORANT! #100TWIN :wink:
+  + Talk to me about VALORANT! #100WIN :wink: :100:
 + Twitch :tv:
 + Writing :pencil:
 
