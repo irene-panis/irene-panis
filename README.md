@@ -3,7 +3,7 @@
 I'm a recent college graduate looking to get into web development. During my second year of college I fell in love with coding while taking some introductory programming courses required for my psychology degree. I spent the next year striving to switch into computer science, but to no avail. Now that I have the time on my hands and a degree under my belt, I've decided to take matters into my own hands and learn web development myself.
 
 ## :computer: I'm currently working on...
-+ Learning web development through [The Odin Project](theodinproject.com) (Thanks, Odin!)
++ Learning web development through [The Odin Project](theodinproject.com) (Thanks, TOP!)
 
 ## :heart: My interests include...
 + Video games and esports :video_game:
