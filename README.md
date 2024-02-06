@@ -1,6 +1,8 @@
 # :wave: Hi, I'm Irene. (she/her)
 
-I'm a recent college graduate and coding bootcamp graduate looking to get into web development. During my second year of college I fell in love with coding while taking some introductory programming courses required for my psychology degree. I spent the next year striving to switch into computer science, but to no avail. Now I'm spending the majority of my post-grad life striving to break into the tech industry and land my first job. Wish me luck!
+I'm a full-stack developer trying to build cool stuff. 
+
+UCSD Psychology '22. UCSD Coding Boot Camp '23. 🎓
 
 ## :computer: I'm currently working on...
 + Personal projects!
