@@ -6,7 +6,7 @@ UCSD Psychology '22. UCSD Coding Boot Camp '23. 🎓
 
 ## :computer: I'm currently working on...
 + Personal projects!
-  + My main focuses right now are [Think Thieves](https://github.com/irene-panis/think-thieves) and [Game Recommendation Project](https://github.com/irene-panis/gerp)
+  + My main focuses right now are [Game Recommendation Project](https://github.com/irene-panis/gerp) and a redesigned portfolio
 + Looking for work :eyes:
 
 ## :heart: My interests include...
@@ -17,3 +17,7 @@ UCSD Psychology '22. UCSD Coding Boot Camp '23. 🎓
 
 ## 💬 Let's talk!
 :paperclip: [LinkedIn](https://www.linkedin.com/in/irene-panis-898733196/)  
+
+##
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=irenealmighty&unique={true|1|on|yes}&count=3)
