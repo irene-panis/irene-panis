@@ -20,4 +20,4 @@ UCSD Psychology '22. UCSD Coding Boot Camp '23. 🎓
 
 ##
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=irenealmighty&unique={true|1|on|yes}&count=3)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=irenealmighty&count=1)
