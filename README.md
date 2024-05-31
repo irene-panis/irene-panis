@@ -6,7 +6,7 @@ UCSD Psychology '22. UCSD Coding Boot Camp '23. 🎓
 
 ## :computer: I'm currently working on...
 + Personal projects!
-  + My main focuses right now are [Game Recommendation Project](https://github.com/irene-panis/gerp) and a redesigned portfolio
+  + My main focus right now is [Game Recommendation Project](https://github.com/irene-panis/gerp) 
 + Looking for work :eyes:
 
 ## :heart: My interests include...
