@@ -6,7 +6,7 @@ Working primarily in TypeScript, React, Node.js, and PostgreSQL.
 
 ## :computer: I'm currently working on...
 + Personal projects!
-+ Looking for work :eyes:
++ Finishing NeetCode 150 
 
 ## :heart: My interests include...
 + Video games & esports :video_game:
